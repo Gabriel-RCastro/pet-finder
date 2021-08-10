@@ -2,5 +2,6 @@
 
 Uma aplicação mobile para encontrar animais de estimação perdidos.
 
-Backend: Laravel (PHP)
-Frontend/Mobile: Flutter (Dart).
+:rocket: Backend: Laravel (PHP)
+
+:rocket: Frontend/Mobile: Flutter (Dart).
